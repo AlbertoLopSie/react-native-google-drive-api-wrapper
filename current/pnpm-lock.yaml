@@ -8,7 +8,7 @@ importers:
 
   .:
     dependencies:
-      '@robinbobin/mimetype-constants':
+      'mimetype-constants/src':
         specifier: ^2.0.1
         version: 2.0.1
       base64-js:

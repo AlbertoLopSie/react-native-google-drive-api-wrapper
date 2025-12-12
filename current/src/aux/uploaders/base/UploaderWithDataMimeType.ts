@@ -1,4 +1,4 @@
-import { mimeTypes } from '@robinbobin/mimetype-constants'
+import { mimeTypes } from 'mimetype-constants/src'
 
 import { Uploader } from './Uploader'
 

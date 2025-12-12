@@ -1,4 +1,4 @@
-import { createTypeGroup, extend } from '@robinbobin/mimetype-constants'
+import { createTypeGroup, extend } from 'mimetype-constants/src'
 
 const APP_DATA_FOLDER_ID = 'appDataFolder'
 const ROOT_FOLDER_ID = 'root'

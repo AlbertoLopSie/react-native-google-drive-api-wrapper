@@ -15,7 +15,7 @@ import type {
   IFilesListResultType
 } from './types'
 
-import { mimeTypes } from '@robinbobin/mimetype-constants'
+import { mimeTypes } from 'mimetype-constants/src'
 
 import { fetchBlob, Fetcher, fetchJson } from '../../aux/Fetcher'
 import { isNonEmptyString } from '../../aux/helpers/isNonEmptyString'

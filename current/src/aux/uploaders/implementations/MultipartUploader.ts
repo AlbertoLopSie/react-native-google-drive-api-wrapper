@@ -2,7 +2,7 @@ import type { IFileOutput } from '../../../api/files/types'
 import type { Fetcher } from '../../Fetcher'
 import type { TBodyType } from '../../Fetcher/types'
 
-import { mimeTypes } from '@robinbobin/mimetype-constants'
+import { mimeTypes } from 'mimetype-constants/src'
 import { isString } from 'radashi'
 import { encode } from 'utf8'
 

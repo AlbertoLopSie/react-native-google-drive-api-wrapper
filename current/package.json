@@ -1,11 +1,11 @@
 {
   "author": "Ruben Shalimov <r_shalimov@inbox.ru>",
   "bugs": {
-    "url": "https://github.com/RobinBobin/react-native-google-drive-api-wrapper/issues"
+    "url": "https://github.com/AlbertoLopSie/react-native-google-drive-api-wrapper/issues"
   },
   "dependencies": {
-    "@robinbobin/mimetype-constants": "^2.0.1",
     "base64-js": "^1.5.1",
+    "mimetype-constants": "github:AlbertoLopSie/mimetype-constants",
     "radashi": "^12.6.0",
     "utf8": "^3.0.0"
   },
@@ -23,16 +23,16 @@
     "package.json",
     "src"
   ],
-  "homepage": "https://github.com/RobinBobin/react-native-google-drive-api-wrapper#readme",
+  "homepage": "https://github.com/AlbertoLopSie/react-native-google-drive-api-wrapper#readme",
   "keywords": [
     "Google Drive API",
     "React Native"
   ],
   "license": "MIT",
   "main": "js/src/index.js",
-  "name": "@robinbobin/react-native-google-drive-api-wrapper",
+  "name": "react-native-google-drive-api-wrapper",
   "packageManager": "pnpm@10.13.1+sha512.37ebf1a5c7a30d5fabe0c5df44ee8da4c965ca0c5af3dbab28c3a1681b70a256218d05c81c9c0dcf767ef6b8551eb5b960042b9ed4300c59242336377e01cfad",
-  "repository": "github:RobinBobin/react-native-google-drive-api-wrapper.git",
+  "repository": "github:AlbertoLopSie/react-native-google-drive-api-wrapper.git",
   "scripts": {
     "prepack": "./prepack.sh"
   },

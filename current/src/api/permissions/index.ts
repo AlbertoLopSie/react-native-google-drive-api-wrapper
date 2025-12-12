@@ -6,7 +6,7 @@ import type {
   IPermissionsDeleteQueryParameters
 } from './types'
 
-import { mimeTypes } from '@robinbobin/mimetype-constants'
+import { mimeTypes } from 'mimetype-constants/src'
 
 import { Fetcher } from '../../aux/Fetcher'
 import { PermissionsUriBuilder } from '../../aux/uriBuilders/permissions/PermissionsUriBuilder'

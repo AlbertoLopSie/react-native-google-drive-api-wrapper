@@ -1,6 +1,6 @@
 import type { Fetcher } from '../../../Fetcher'
 
-import { mimeTypes } from '@robinbobin/mimetype-constants'
+import { mimeTypes } from 'mimetype-constants/src'
 import { isNumber } from 'radashi'
 
 import { UploaderWithDataMimeType } from '../../base/UploaderWithDataMimeType'

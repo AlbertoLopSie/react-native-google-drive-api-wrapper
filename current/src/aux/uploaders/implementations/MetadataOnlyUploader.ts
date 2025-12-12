@@ -1,6 +1,6 @@
 import type { IFileOutput } from '../../../api/files/types'
 
-import { mimeTypes } from '@robinbobin/mimetype-constants'
+import { mimeTypes } from 'mimetype-constants/src'
 
 import { Uploader } from '../base/Uploader'
 
