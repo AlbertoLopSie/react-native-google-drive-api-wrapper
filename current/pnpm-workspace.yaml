@@ -1,3 +1,0 @@
-onlyBuiltDependencies:
-  - '@robinbobin/ts-eslint-prettier'
-  - unrs-resolver
